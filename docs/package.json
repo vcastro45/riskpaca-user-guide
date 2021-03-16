@@ -1,0 +1,19 @@
+{
+  "name": "riskpaca-user-guide",
+  "version": "0.0.1",
+  "description": "A quick user guide for the Riskpaca app",
+  "main": "index.js",
+  "authors": {
+    "name": "Victor Castro-Cintas",
+    "email": "victor.castro-cintas@inetum.world"
+  },
+  "repository": "/riskpaca-user-guide",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
