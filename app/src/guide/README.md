@@ -6,7 +6,7 @@ sidebar: auto
 
 ## Carte
 
-![Carte riskpaca à l'accueil](/map-tools.jpg)
+![Carte riskpaca à l'accueil](../assets/map-tools.jpg)
 
 ### Outils
 - `Echelle`: Sélection rapide de l'échalle de la carte
@@ -38,7 +38,7 @@ Ouvre le panneau d'informations de l'élément.
 
 
 ## Contextes
-![Panneau "Contextes"](/contextes.png)
+![Panneau "Contextes"](../assets/contextes.png)
 
 Met en surbrillance le contexte actif parmi la liste des contextes sélectionnables.
 
@@ -47,16 +47,16 @@ L'ajout d'un nouveau contexte ou l'administration de ceux déjà existants se fa
 
 > Structure > Taxonomie > Preset
 
-![Chemin d'accès a l'administration des contexte](/add-preset-path.png)
+![Chemin d'accès a l'administration des contexte](../assets/add-preset-path.png)
 
-![Bouton d'ajout d'un contexte](/add-preset-button.png)
+![Bouton d'ajout d'un contexte](../assets/add-preset-button.png)
 
 
 
 ## Couches
 
 ### Couches sélectionnées
-![Panneau "Couches"](/couches-selection.png)
+![Panneau "Couches"](../assets/couches-selection.png)
 
 Le panneau de couches affiche les couches sélectionnées.  
 Il existe cependant 3 "sous-types" de couches:
@@ -68,17 +68,17 @@ Il est possible, pour chacune des couches, de piloter son affichage, son opacit�
 
 ### Catalogue de couches
 #### Sélection
-![Panneau "Catalogue de couches"](/couches-catalogue.png)
+![Panneau "Catalogue de couches"](../assets/couches-catalogue.png)
 
 Le panneau "Catalogue de couches" indexe toutes les couches disponibles et permet de les utiliser dans le contexte sélectionné.
 
 #### Ajout de flux WMS
-![Modale d'ajout de flux WMS](/couches-ajout-flux.png)
+![Modale d'ajout de flux WMS](../assets/couches-ajout-flux.png)
 
 Il est possible d'ajouter son propre flux WMS s'il n'est pas disponible dans le catalogue.
 
 #### Filtrage
-![Panneau "Catalogue de couches", filtres visibles](/couches-catalogue-filtres.png)
+![Panneau "Catalogue de couches", filtres visibles](../assets/couches-catalogue-filtres.png)
 
 Les couches du catalogue sont filtrables par nom, thématiques, phénomène et profil.
 
@@ -86,13 +86,13 @@ Les couches du catalogue sont filtrables par nom, thématiques, phénomène et p
 
 L'ajout d'un nouvelle couche et l'administration de celles déjà présentes se fait par le backoffice d'ORRM.
 
-![Chemin d'accès a l'administration des couches du catalogue](/add-couche-path.png)
-![Bouton d'ajout de couche au catalogue](/add-couche-button.png)
+![Chemin d'accès a l'administration des couches du catalogue](../assets/add-couche-path.png)
+![Bouton d'ajout de couche au catalogue](../assets/add-couche-button.png)
 
 
 
 ## Légende
-![Panneau "Legende"](/legende.png)
+![Panneau "Legende"](../assets/legende.png)
 
 Affiche en permanence les légendes des `Actualités`, `Entités cartographiques` et `Infos & règlementations`.
 Affiche les légendes des couches WMS si leur flux en expose.
@@ -100,7 +100,7 @@ Affiche les légendes des couches WMS si leur flux en expose.
 
 
 ## A propos
-![Panneau "a propos"](/a-propos.png)
+![Panneau "a propos"](../assets/a-propos.png)
 
 Les liens redirigent vers leurs pages correspondantes sur le site ORRM.
 
