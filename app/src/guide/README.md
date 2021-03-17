@@ -24,15 +24,15 @@ La sélection des éléments trouvés par le moteur de recherche a différentes 
 Ajoute la couche cartographique au contexte courant et l'affiche sur la carte.
 
 #### Infos & Règlementations
-Affiche et zoom sur l'élément sur la carte.
+Affiche et zoome sur l'élément sur la carte.
 Ouvre le panneau d'informations de l'élément.
 
 #### Actualités
-Affiche et zoom sur les communes porteuses de l'actualité sur la carte.
+Affiche et zoome sur les communes porteuses de l'actualité sur la carte.
 Ouvre le panneau d'informations de l'élément.
 
 #### Entités cartographiques
-Affiche et zoom sur l'élément sur la carte.
+Affiche et zoome sur l'élément sur la carte.
 Ouvre le panneau d'informations de l'élément.
 
 
@@ -60,11 +60,11 @@ L'ajout d'un nouveau contexte ou l'administration de ceux déjà existants se fa
 
 Le panneau de couches affiche les couches sélectionnées.  
 Il existe cependant 3 "sous-types" de couches:
-- Les éléments de cartographie, constitué des `Actualités`, `Entités cartographiques` et `Infos & règlementations` et reconnaissables par l'icone de roue crantée en haut à droite
+- Les éléments de cartographie, constitués des `Actualités`, `Entités cartographiques` et `Infos & règlementations` et reconnaissables par l'icone de roue crantée en haut à droite
 - Les couches du contexte, qui ne peuvent pas être retirées
 - Les couches ajoutées par l'utilisateur lors de sa navigation, qu'il peut retirer en cliquant sur la croix rouge en haut à droite
 
-Il est possible, pour chacune des couches, de piloter son affichage, son opacité et on ordre d'affichage (en glisser-déposer)
+Il est possible, pour chacune des couches, de piloter son affichage, son opacité et son ordre d'affichage (en glisser-déposer)
 
 ### Catalogue de couches
 #### Sélection
@@ -80,11 +80,11 @@ Il est possible d'ajouter son propre flux WMS s'il n'est pas disponible dans le 
 #### Filtrage
 ![Panneau "Catalogue de couches", filtres visibles](../assets/couches-catalogue-filtres.png)
 
-Les couches du catalogue sont filtrables par nom, thématiques, phénomène et profil.
+Les couches du catalogue sont filtrables par nom, thématique, phénomène et profil.
 
 #### Ajouter une couche au catalogue
 
-L'ajout d'un nouvelle couche et l'administration de celles déjà présentes se fait par le backoffice d'ORRM.
+L'ajout d'une nouvelle couche et l'administration de celles déjà présentes se font par le backoffice d'ORRM.
 
 ![Chemin d'accès a l'administration des couches du catalogue](../assets/add-couche-path.png)
 ![Bouton d'ajout de couche au catalogue](../assets/add-couche-button.png)
@@ -104,5 +104,5 @@ Affiche les légendes des couches WMS si leur flux en expose.
 
 Les liens redirigent vers leurs pages correspondantes sur le site ORRM.
 
-La date de derniere mise à jour et la version sont mis à jour automatiquement.
+La date de dernière mise à jour et la version sont mises à jour automatiquement.
 
