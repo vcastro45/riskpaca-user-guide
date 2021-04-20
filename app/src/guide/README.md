@@ -101,6 +101,24 @@ L'ajout d'une nouvelle couche et l'administration de celles déjà présentes se
 ![Chemin d'accès a l'administration des couches du catalogue](../assets/add-couche-path.png)
 ![Bouton d'ajout de couche au catalogue](../assets/add-couche-button.png)
 
+Saisir le lien du flux, sans les paramètres
+![Bouton d'ajout de couche au catalogue](../assets/add-couche-flux.png)
+
+Définir le bon type de couche et les paramètres au format JSON.  
+S'ils ne sont pas saisis, certains paramètres sont substitués par leurs valeur par défaut:
+- FORMAT
+- HEIGHT
+- WIDTH
+- CRS
+- VERSION
+
+Aussi, les paramètres suivants ne doivent pas êtres saisis:
+- SERVICE
+- REQUEST
+
+![Bouton d'ajout de couche au catalogue](../assets/add-couche-params.png)
+
+Dans le cas d'un flux WFS, celui-ci ne portant pas les styles d'affichage des features qu'il expose, il faut les préciser au format SLD (disponible dans le catalogue du CRIGE).
 
 
 ## Légende
