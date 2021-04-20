@@ -75,7 +75,19 @@ Le panneau "Catalogue de couches" indexe toutes les couches disponibles et perme
 #### Ajout de flux WMS
 ![Modale d'ajout de flux WMS](../assets/couches-ajout-flux.png)
 
-Il est possible d'ajouter son propre flux WMS s'il n'est pas disponible dans le catalogue.
+Il est possible d'ajouter son propre flux WMS s'il n'est pas disponible dans le catalogue.  
+Par exemple, pour un flux WMS récupéré dans le catalogue du CRIGE:
+
+Il est possible de récupérer le lien du flux de la couche cartographique qui nous intéresse sur les ressources qui portent une "API Géo"
+![Bouton "API Géo" du catalogue du CRIGE](../assets/crige-bouton-api-geo.png)
+![Lien du flux de la couche cartographique du catalogue du CRIGE](../assets/crige-lien-flux-couche.png)
+
+Il suffit d'intégrer ce lien dans la modale d'ajout de flux WMS
+![Modale d'ajout de flux WMS complétée](../assets/couches-ajout-flux-crige.png)
+
+La couche sera ensuite ajoutée au catalogue de couches pour votre instance. Il suffit de l'activer pour la voir apparaître sur la carte
+![Couche WMS Active](../assets/couche-wms-active.jpg)
+
 
 #### Filtrage
 ![Panneau "Catalogue de couches", filtres visibles](../assets/couches-catalogue-filtres.png)
